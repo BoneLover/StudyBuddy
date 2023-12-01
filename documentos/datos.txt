@@ -1,0 +1,10 @@
+Integrante: Ezequiel Nicolás García Puebla
+Materia: Diseño y Programación Web I
+Año: 2023
+Cuatrimestre: Cuarto
+Comisión: DMN3AP
+Turno:Noche
+Apellido: García Puebla
+Nombres: Ezequiel Nicolás 
+Docente: Antonio Rubio
+Carácter de Entrega: Parcial
